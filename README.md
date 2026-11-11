@@ -2,7 +2,7 @@
 
 Atividade integradora da Fase 3 de Ciências da Computação da FIAP.
 
-Felipe Cagnin de Lima · Grupo 40.
+Felipe Cagnin de Lima · Grupo 41.
 
 O programa organiza os sistemas da colônia, estima a energia eólica a partir do vento e decide como distribuir a energia disponível. As mensagens mostram quando reduzir consumo, usar a bateria, armazenar uma sobra ou acionar emergência.
 
