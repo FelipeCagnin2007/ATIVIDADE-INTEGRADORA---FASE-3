@@ -144,5 +144,4 @@ Os testes verificam regressão, entradas inválidas, hierarquia, prioridades, li
 ## Entrega
 
 Repositório público: https://github.com/FelipeCagnin2007/ATIVIDADE-INTEGRADORA---FASE-3
-
-O relatório em PDF é entregue separadamente na plataforma da atividade. Ele explica os dados, as regras, a previsão e a análise do uso de energia.
+O relatório em PDF foi entregue na plataforma da FIAP ON.
